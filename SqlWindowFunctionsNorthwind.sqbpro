@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/DiegoJones/Downloads/northwind.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="5205"/><column_width id="4" width="0"/><expanded_item id="8" parent="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Alphabetical list of products" custom_title="0" dock_id="1" table="4,29:mainAlphabetical list of products"/><table title="Products" custom_title="0" dock_id="12" table="4,8:mainProducts"/><table title="Sales Totals by Amount" custom_title="0" dock_id="7" table="4,22:mainSales Totals by Amount"/><table title="Customer and Suppliers by City" custom_title="0" dock_id="4" table="4,30:mainCustomer and Suppliers by City"/><table title="Products Above Average Price" custom_title="0" dock_id="5" table="4,28:mainProducts Above Average Price"/><table title="Invoices" custom_title="0" dock_id="6" table="4,8:mainInvoices"/><table title="Employees" custom_title="0" dock_id="8" table="4,9:mainEmployees"/><table title="Products" custom_title="0" dock_id="9" table="4,8:mainProducts"/><table title="Order Details" custom_title="0" dock_id="10" table="4,13:mainOrder Details"/><table title="Products" custom_title="0" dock_id="11" table="4,8:mainProducts"/><dock_state state="000000ff00000000fd000000010000000200000306000002a9fc0100000001fc0000000000000306000001f000fffffffa00000009010000000afb000000160064006f0063006b00420072006f00770073006500310100000000ffffffff0000015c00fffffffb000000160064006f0063006b00420072006f00770073006500340100000000ffffffff0000015c00fffffffb000000160064006f0063006b00420072006f00770073006500350100000000ffffffff0000015c00fffffffb000000160064006f0063006b00420072006f00770073006500360100000000ffffffff0000015c00fffffffb000000160064006f0063006b00420072006f00770073006500370100000000ffffffff0000015c00fffffffb000000160064006f0063006b00420072006f00770073006500380100000000ffffffff0000015c00fffffffb000000160064006f0063006b00420072006f00770073006500390100000000ffffffff0000015c00fffffffb000000180064006f0063006b00420072006f007700730065003100300100000000ffffffff0000015c00fffffffb000000180064006f0063006b00420072006f007700730065003100310100000000ffffffff0000015c00fffffffb000000180064006f0063006b00420072006f007700730065003100320100000000ffffffff0000015c00ffffff000003060000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Alphabetical list of products" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="178"/><column index="3" value="76"/><column index="4" value="82"/><column index="5" value="113"/><column index="6" value="68"/><column index="7" value="92"/><column index="8" value="98"/><column index="9" value="94"/><column index="10" value="94"/><column index="11" value="105"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Customer and Suppliers by City" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="83"/><column index="2" value="206"/><column index="3" value="142"/><column index="4" value="89"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Employees" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="85"/><column index="2" value="73"/><column index="3" value="75"/><column index="4" value="129"/><column index="5" value="112"/><column index="6" value="70"/><column index="7" value="67"/><column index="8" value="133"/><column index="9" value="57"/><column index="10" value="83"/><column index="11" value="82"/><column index="12" value="61"/><column index="13" value="90"/><column index="14" value="72"/><column index="15" value="46"/><column index="16" value="300"/><column index="17" value="75"/><column index="18" value="215"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Invoices" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="185"/><column index="2" value="241"/><column index="3" value="83"/><column index="4" value="93"/><column index="5" value="111"/><column index="6" value="90"/><column index="7" value="86"/><column index="8" value="185"/><column index="9" value="241"/><column index="10" value="83"/><column index="11" value="93"/><column index="12" value="82"/><column index="13" value="69"/><column index="14" value="88"/><column index="15" value="59"/><column index="16" value="76"/><column index="17" value="97"/><column index="18" value="92"/><column index="19" value="96"/><column index="20" value="74"/><column index="21" value="178"/><column index="22" value="68"/><column index="23" value="64"/><column index="24" value="66"/><column index="25" value="103"/><column index="26" value="55"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Order Details" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="61"/><column index="2" value="75"/><column index="3" value="68"/><column index="4" value="64"/><column index="5" value="66"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Products" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="178"/><column index="3" value="78"/><column index="4" value="84"/><column index="5" value="113"/><column index="6" value="68"/><column index="7" value="92"/><column index="8" value="98"/><column index="9" value="94"/><column index="10" value="94"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Products Above Average Price" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="163"/><column index="2" value="68"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Sales Totals by Amount" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="87"/><column index="2" value="59"/><column index="3" value="107"/><column index="4" value="92"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Table Attributes">/* 
+Project: SQL Window Functions for Northwind Traders
+Author: DIEGO JONES
+Date Completed: June 5th 2025
+
+Database contains 14 tables:
+1)	Categories
+2)	CustomerCustomerDemo
+3)	CustomerDemographics
+4)	Customers
+5)	EmployeeTerritories
+6)	Employees
+7)	Order Details
+8)	Orders
+9)	Products
+10)	Regions
+11)	Shippers
+12)	Suppliers
+13)	Territories
+14)	sqlite_sequence
+*/
+
+-- The following query selects each table name, the number of attributes, and the number of rows --
+
+SELECT 'Categories' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Categories')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Categories
+	 
+UNION ALL
+
+SELECT 'CustomerCustomerDemo' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('CustomerCustomerDemo')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM CustomerCustomerDemo
+	 
+UNION ALL
+
+SELECT 'CustomerDemographics' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('CustomerDemographics')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM CustomerDemographics
+	 
+UNION ALL
+
+SELECT 'Customers' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Customers')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Customers
+	 
+UNION ALL
+
+SELECT 'EmployeeTerritories' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('EmployeeTerritories')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM EmployeeTerritories
+	 
+UNION ALL
+
+SELECT 'Employees' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Employees')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Employees	 
+	 
+UNION ALL
+
+SELECT 'Order Details' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Order Details')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Order Details] --enclosed in brackets due to the space in the name 
+
+UNION ALL
+
+SELECT 'Orders' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Orders')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Orders
+	 
+UNION ALL
+
+SELECT 'Products' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Products')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Products
+
+UNION ALL
+
+SELECT 'Regions' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Regions')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Regions
+
+UNION ALL
+
+SELECT 'Shippers' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Shippers')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Shippers
+
+UNION ALL
+
+SELECT 'Suppliers' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Suppliers')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Suppliers
+
+UNION ALL
+
+SELECT 'Territories' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Territories')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM Territories;
+	 
+</sql><sql name="View Attributes">/*Database contains 17 views:
+1)	Alphabetical list of products
+2)	Category Sales for 1997
+3)	Current Product List
+4)	Customer and Suppliers by City
+5)	Invoices
+6)	Order Detials Extended
+7)	Order Subtotals
+8)	Orders Qry
+9)	Product Sales for 1997
+10)	ProductDetails_V
+11)	 Products Above Average Price
+12)	 Products by Category
+13)	 Quarterly Orders
+14)	 Sales Totals by Amount
+15)  Sales by Category
+16)  Summary of Sales by Quarter
+17)  Summary of Sales by Year
+
+As we move through the project we will notice the views will not be accessed but it is important to note as they
+are an important part of the database
+*/
+
+-- The following query selects each view name, the number of attributes, and the number of rows --
+
+SELECT 'Alphabetical list of products' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Alphabetical list of products')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Alphabetical list of products]
+
+UNION ALL
+
+SELECT 'Category Sales for 1997' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Category Sales for 1997')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Category Sales for 1997]
+
+UNION ALL
+
+SELECT 'Current Product List' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Current Product List')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Current Product List]
+
+UNION ALL
+
+SELECT 'Customer and Suppliers by City' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Customer and Suppliers by City')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Customer and Suppliers by City]
+
+UNION ALL
+
+SELECT 'Invoices' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Invoices')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Invoices]
+
+UNION ALL
+
+SELECT 'Order Detials Extended' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Order Details Extended')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Order Details Extended]
+
+UNION ALL
+
+SELECT 'Order Subtotals' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Order Subtotals')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Order Subtotals]
+
+UNION ALL
+
+SELECT 'Orders Qry' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Orders Qry')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Orders Qry]
+
+UNION ALL
+
+SELECT 'Product Sales for 1997' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Product Sales for 1997')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Product Sales for 1997]
+
+UNION ALL
+
+SELECT 'ProductDetails_V' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('ProductDetails_V')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [ProductDetails_V]
+
+UNION ALL
+
+SELECT 'Products Above Average Price' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Products Above Average Price')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+    FROM[Products Above Average Price]
+
+UNION ALL
+
+SELECT 'Products by Category' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Products by Category')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Products by Category]
+
+UNION ALL
+
+SELECT 'Quarterly Orders' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Quarterly Orders')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Quarterly Orders]
+
+UNION ALL
+
+SELECT 'Sales Totals by Amount' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Sales Totals by Amount')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Sales Totals by Amount]
+
+UNION ALL
+
+SELECT 'Sales by Category' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Sales by Category')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Sales by Category]
+
+UNION ALL
+
+SELECT 'Summary of Sales by Quarter' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Summary of Sales by Quarter')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Summary of Sales by Quarter]
+
+UNION ALL
+
+SELECT 'Summary of Sales by Year' as table_name,
+				   (SELECT COUNT(*) FROM PRAGMA_TABLE_INFO('Summary of Sales by Year')) as number_of_attributes,
+                   COUNT(*) as number_of_rows
+     FROM [Summary of Sales by Year];
+
+
+
+</sql><sql name="Ranking Employee Sales Performance">-- Tab Scenario --
+/*
+As the lead Data Analyst at Northwind Traders, you've been tasked with
+comprehensively reviewing the company's sales performance from an employee perspective. 
+
+The objective is twofold:
+
+First, the management team wants to recognize and reward top-performing employees, 
+fostering a culture of excellence within the organization.
+
+
+Second, they want to identify employees who might be struggling so that they can offer the necessary training 
+or resources to help them improve. 
+
+The management team is keen on encouraging healthy competition and rewarding stellar performers. 
+They've asked you to rank employees based on their total sales amount.
+*/
+
+--The following query will output all 9 employee IDs in a ranked order based on their total sales amount--
+
+WITH TotalSales AS(
+	SELECT E.EmployeeID, 
+					 SUM(OD.Quantity * OD.UnitPrice) AS TotalSalesAmount --Sums up total sales for a specfiic Employee
+		FROM [Order Details] AS OD
+		  JOIN  Orders AS O
+			   ON OD.OrderID = O.OrderID
+		 JOIN Employees AS E
+		       ON O.EmployeeID = E.EmployeeID
+	  GROUP BY E.EmployeeID
+)
+
+SELECT EmployeeID, 
+				 TotalSalesAmount,
+				  RANK()OVER(ORDER BY TotalSalesAmount DESC) AS TotalSalesRank --Ranks employees based on sales from best to worst
+    FROM TotalSales
+</sql><sql name="Running Total of Monthly Sales">--Tab Scenario--
+/*
+Having completed the employee performance ranking, 
+you've provided the management team with valuable insights into individual employee contributions. 
+
+They're now keen on gaining a more macro-level perspective, 
+specifically around the company's overall sales performance over time.
+ 
+They're looking to visualize the progress of the sales 
+and identify trends that might shape the company's future strategies.
+
+Your first task in this new analysis is to visualize the company's sales progress over time on a monthly basis. 
+This will involve aggregating the sales data at a monthly level and calculating a running total of sales by month.
+This visual will provide the management team with a clear depiction of sales trends 
+ help identify periods of high or low sales activity.
+*/
+
+--The following query will output all the total sales amount for every month individually, aswell as a running total--
+
+SELECT strftime('%Y-%m', O.OrderDate)AS OrderMonth,
+                 ROUND(SUM(OD.UnitPrice * OD.Quantity * (1-Discount)),2)AS SalesForMonth, -- Sums up sales for a specific month
+                 ROUND(SUM(SUM(OD.UnitPrice * OD.Quantity * (1-Discount)))OVER(ORDER BY strftime('%Y-%m',O.OrderDate)),2)AS RunningTotal --Adds up all previous and current sales by row/month
+  FROM Orders AS O
+  JOIN [Order Details] AS OD
+    ON O.OrderID = OD.OrderID
+GROUP BY strftime('%Y-%m', O.OrderDate)</sql><sql name="Month-Over-Month Sales Growth">--Tab Scenario--
+/*
+After you've presented the running sales total by month, 
+the management team is interested in further dissecting these figures. 
+
+They would like to analyze the month-over-month sales growth rate. 
+Understanding the rate at which sales are increasing or decreasing from month to month 
+will help the management team identify significant trends.
+
+For this task, you'll need to calculate the percentage change in sales from one month to the next 
+using the results from the previous screen. 
+
+This is where  knowledge of window functions will shine, 
+as you'll use the LAG function to compare each month's sales with the previous month's. 
+
+This can provide a clear picture of the periods of growth or contraction, 
+informing business strategy and decision-making.
+*/
+
+--The following query will output the sales for each month, the previous month, and the monthly growth rate of sales--
+
+WITH 
+MonthlySales AS (
+    SELECT strftime('%Y-%m', O.OrderDate)AS OrderMonth,
+                     ROUND(SUM(OD.UnitPrice * OD.Quantity * (1-Discount)),2)AS SalesForMonth --Sums up sales for the month
+      FROM Orders AS O
+        JOIN [Order Details] AS OD
+            ON O.OrderID = OD.OrderID
+   GROUP BY strftime('%Y-%m', O.OrderDate)
+    ),
+    
+PreviousMonthCheck AS (
+    SELECT OrderMonth,
+                     SalesForMonth,
+                     LAG(SalesForMonth, 1)OVER(ORDER BY OrderMonth) AS SalesPreviousMonth --Outputs sales for the previous month
+      FROM MonthlySales
+   )
+
+SELECT *,
+                ROUND(((SalesForMonth - SalesPreviousMonth)/ SalesPreviousMonth) *100,2) ||' '|| '%'AS 'MonthlySalesGrowthRate' --Calculates Percentage of sales growth from previous month to current 
+    FROM PreviousMonthCheck</sql><sql name="Identifying High-Value Customer">--Tab Scenario--
+/*
+Upon completing the sales growth and trend analysis, 
+you've provided the management team valuable insights into the company's sales performance over time. 
+Now, they're interested in a different, equally important, aspect of the business: the customers.
+
+They want to identify high-value customers to whom they can offer targeted promotions and special offers, 
+which could drive increased sales, improve customer retention, and attract new customers.
+
+To do this, they've asked you to identify customers with above-average order values. 
+These customers might be businesses buying in bulk or individuals purchasing high-end products.
+*/
+
+--The following query will output Customer ID, Order ID, and Order Sale Amount, with a value metric grading the order--
+
+WITH CustomerValue AS(
+    SELECT O.CustomerID,
+                     O.OrderID,
+                     SUM(UnitPrice * Quantity * (1-Discount)) AS OrderSaleAmount --Sums up the total sale amount of each customers' orders
+      FROM Orders AS O
+      JOIN [Order Details] AS OD
+        ON O.OrderID = OD.OrderID
+     GROUP BY O.CustomerID--, O.OrderID 
+	 /*
+	 include OrderID in the group by statement to grade individual orders for each customer instead of
+	 summing up all orders for each customer
+	 */
+    )
+
+SELECT CustomerID,
+                 OrderID,
+                 OrderSaleAmount,
+                 CASE --Grades sale amount as either above average, below average, or average 
+							WHEN OrderSaleAmount &gt; AVG(OrderSaleAmount) OVER() THEN 'Above Average' 
+							WHEN OrderSaleAmount &lt; AVG(OrderSaleAmount) OVER() THEN 'Below Average'
+							  ELSE 'Average'
+                END AS OrderValue
+  FROM CustomerValue
+ORDER BY CustomerID;</sql><sql name="Percentage of Sales for Each Category">--Tab Scenario--
+/*
+Having successfully identified customers with above-average order values, you've been asked to switch gears 
+and focus on another critical aspect of the company's operations: product and category performance.
+
+You've been asked to provide the management team with an understanding of sales composition across different product categories. 
+By knowing the percentage of total sales for each product category, they can gain insights into which categories drive most of the company's sales.
+
+This understanding will help guide decisions about inventory (e.g., which categories should be stocked more heavily) 
+and marketing strategies (e.g., which categories should be promoted more aggressively).
+*/
+
+--The following query will output the CategoryID, the total sales for that Category and the percentage of sales in relation to the total sales--
+
+WITH TotalSalesByCategory AS(
+	SELECT P.CategoryID, P.UnitPrice, OD.Quantity,
+				     SUM(P.UnitPrice) AS SumOfUnitPricesPerCategory,                 								--Sums up the UnitPrice for each product in each category
+					 SUM(OD.Quantity) AS QuantitySoldPerCategory,                     	                            --Sums up the Quantity sold for each product in each category
+					 SUM(P.UnitPrice * OD.Quantity * (1-Discount)) AS TotalSalesForCategory	--Sums up the total sales for each category
+	   FROM Products AS P
+	     JOIN [Order Details] AS OD
+			 ON P.ProductID = OD.ProductID
+	GROUP BY CategoryID
+	)
+
+SELECT CategoryID,
+				 TotalSalesForCategory,
+				 ROUND((TotalSalesForCategory/SUM(TotalSalesForCategory) OVER()) *100,2) ||' '|| '%' AS PercentageOfTotalSales -- Finds the percentage of total sales for each category 
+    FROM TotalSalesByCategory
+  GROUP BY CategoryID</sql><sql name="Top Products Per Category">-- Tab Scenario --
+/*
+With the knowledge of sales by category, the next step is to drill down further into each group. 
+The management team wants to know the top three items sold in each product category. 
+This will allow them to identify star performers and ensure that these products are kept in stock and marketed prominently.
+*/
+ 
+ -- The following query will output the top 3 selling products in each category, showing the ProductID, CategoryID, sales amount and ranking--
+ 
+WITH ProductSales AS(
+	SELECT OD.ProductID, 
+					 P.CategoryID,
+					 SUM(OD.UnitPrice * OD.Quantity * (1-Discount)) AS TotalSalesForProduct --Sums up the total sales amount of each product 
+		FROM [Order Details] AS OD
+		  JOIN Products AS P
+		      ON OD.ProductID = P.ProductID
+	  GROUP BY OD.ProductID
+	 )
+	 
+SELECT *
+	FROM (
+			SELECT ProductID,
+							 CategoryID,
+							 TotalSalesForProduct,
+							row_number()OVER(PARTITION BY CategoryID
+																	  ORDER BY TotalSalesForProduct) AS ProductRankWithinCategory -- Ranks each product within each category
+				FROM ProductSales
+	)
+WHERE ProductRankWithinCategory &lt;=3 --Clause that allows only the top 3 products per category to be displayed
+
+
+				</sql><current_tab id="7"/></tab_sql></sqlb_project>
